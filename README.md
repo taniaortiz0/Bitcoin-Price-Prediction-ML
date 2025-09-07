@@ -7,7 +7,7 @@
 2. [Files](#-files)
 3. [Tools & Libraries](#-tools-&-libraries)
 4. [Keynotes](#-keynotes)
-5. [Future Improvements](#-future-improvments)
+5. [Future Improvements](#-future-improvements)
 
 ---
 
